@@ -7,13 +7,20 @@ title: Kien Ngo | Portfolio
 
 [View the Project on GitHub](https://github.com/kienngo-pyth/Kien-Ngo)
 
-## Hi there, my name is Kien Ngo 👋
-## Data Analytics
+# ABOUT ME
 
-- I'm a junior at the University of North Carolina - Chapel Hill, major in Mathematics
-- I’m proficient in Java, currently learning Python
-- How to reach me: ngochikien0309@gmail.com
-- Past projects:
+Hi there! I'm Kien Ngo 👋, a Mathematics junior at the University of North Carolina - Chapel Hill, specializing in Data Analytics and Python programming.
+
+# WHAT I DO
+
+- 📊 **Data Analytics & Research** 
+- 📐 **Mathematical Modeling**
+
+# HOW TO REACH ME
+- Email: ngochikien0309@gmail.com
+
+# MY PORTFOLIO
+- Past projects
   + https://docs.google.com/document/d/1_J0-H1V8b2tFzgC7_0UhRtTrglwRzOkS/edit?usp=sharing&ouid=102578747852230591396&rtpof=true&sd=true
     * Title: "Analyzing the effectiveness of penalty kick strategies in association football"
     * The project examined the relative effectiveness in scoring penalties of keeper-dependent strategies in comparison with the more traditional keeper-independent strategy, as well as exploring other factors
