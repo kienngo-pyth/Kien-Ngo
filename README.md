@@ -1,3 +1,12 @@
+---
+layout: default
+title: Kien Ngo | Portfolio
+---
+
+![Profile Picture](IMG_5315.jpg)
+
+[View the Project on GitHub](https://github.com/kienngo-pyth/Kien-Ngo)
+
 ## Hi there, my name is Kien Ngo 👋
 ## Data Analytics
 
