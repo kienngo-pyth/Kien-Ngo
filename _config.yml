@@ -1,3 +1,5 @@
 title: Kien Ngo
 logo: IMG_5315.jpg
-theme: jekyll-theme-ordered-list
+remote_theme: pages-themes/ordered-list
+plugins:
+  - jekyll-remote-theme
