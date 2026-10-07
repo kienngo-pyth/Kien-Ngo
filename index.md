@@ -17,7 +17,7 @@ Hi there! I'm Kien Ngo 👋, a Mathematics junior at the University of North Car
 - 📐 **Mathematical Modeling**
 
 # HOW TO REACH ME
-- Email: [ngochikien0309@gmail.com](mailto:ngochikien0309@gmail.com)[cite: 1]
+- Email: [ngochikien0309@gmail.com](mailto:ngochikien0309@gmail.com)
 
 # MY PORTFOLIO
 - Past projects
