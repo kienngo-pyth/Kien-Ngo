@@ -57,5 +57,9 @@ Mathematics Junior at the **University of North Carolina at Chapel Hill**, speci
 * 📖 **90 Math Problems for Olympic Training** | *Author* (`Jan 2023 – Oct 2023`)
   * Authored a training guidebook covering trigonometric equations and sequence limits under Prof. Nguyen Minh Duc.
   * Distributed 250+ gifted copies to secondary school students preparing for the International Mathematical Olympiad (IMO).
+ 
+* 📊 **KPIM Christmas Sales Analysis** | *Author* | MSSQL, Excel (`Aug 2026 - Nov 2026`) 
+  * Queried and cleaned a relational database of 100,000+ orders across 8 tables using multi-table JOINs, CONCATs and CTEs to resolve null values and duplicate transaction records.
+  * From data collected, established trends among Christmas shoppers.
 
 ---
